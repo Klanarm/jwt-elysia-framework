@@ -5,7 +5,7 @@
 To get started with this template, simply paste this command into your terminal:
 
 ```bash
-git clone https://gitlab.com/ronbouarm/elysia-base.git
+git clone https://github.com/Klanarm/jwt-elysia-framework.git
 bun install
 ```
 
