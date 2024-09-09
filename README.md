@@ -17,4 +17,13 @@ To start the development server run:
 bun run localhost
 ```
 
+don't forget .env
 Open http://localhost:3000/swagger with your browser to see the result.
+
+## Docker
+
+for docker deployment:
+
+```bash
+docker-compose up --build -d
+```
